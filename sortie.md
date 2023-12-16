@@ -48,13 +48,13 @@ L'analyse quantitative a inclus un examen des taux de réponse, des mesures d'ef
 
 ### Sous-Partie 3.2 : Efficacité de l'Homéopathie chez les Chiens et les Chats
 
-La synthesis des travaux actuels met en avant l'étude de Dupont (2021) comme pierre angulaire dans l'évaluation de l'homéopathie vétérinaire. Cette recherche, respectant une méthodologie rigoureuse, a exploré l'impact du Crataegus oxyacantha dans le cadre du traitement homéopathique de la maladie valvulaire mitrale myxomateuse, condition répandue chez les chiens. Dupont (2021) indique que "l'introduction de Crataegus, en particulier le groupe 6 cH, a été bénéfique pour prolonger la durée de la phase asymptomatique". Ce constat ouvre des avenues vers des alternatives thérapeutiques potentiellement efficaces dans le spectre des soins vétérinaires alternatifs pour cette pathologie cardiaque courante.
+L'étendue de l'étude, en regardant l'efficacité de l'homéopathie comparativement aux traitements conventionnels, met en avant des dimensions cruciales telles que "la sécurité, les coûts et l'acceptabilité par les propriétaires d'animaux" (Dupont, 2021). Il apparaît en effet que l'usage de Crataegus oxyacantha en 6 cH pourrait représenter une option moins onéreuse et bien tolérée pour gérer la maladie valvulaire mitrale myxomateuse chez les canidés. Cependant, il est primordial d'examiner si cet avantage de coût ne s'accompagne pas de compromis sur l’efficacité ou la sécurité par rapport aux thérapies conventionnelles.
 
-#### Sous-Sous-Partie 3.2.2 : Comparaison avec les traitements conventionnels chez les animaux de compagnie
+L'inclusion de la taille des échantillons et de l'hétérogénéité génétique des sujets à l'étude est fondamentale pour "augmenter la robustesse et la généralisabilité des conclusions" (Dupont, 2021). La question de la taille des échantillons réside dans le besoin de pouvoir extrapoler les résultats obtenus à une population plus large d'animaux domestiques.
 
-La comparaison des approches homéopathiques aux traitements conventionnels nous révèle des informations précieuses en termes de résultats cliniques et de bien-être animal. Il est primordial que ces comparatifs soient continuellement actualisés afin de garantir que les animaux reçoivent le traitement le plus approprié à leur condition.
+De plus, une enquête sur les effets à long terme, impliquant un suivi étendu des patients canins et félins, permettrait de "mieux évaluer la durée et la persistence de l'effet thérapeutique de l'homéopathie" (Dupont, 2021). Ceci est d'autant plus pertinent que les pathologies chroniques, telles que les maladies cardiaques, nécessitent souvent une prise en charge sur le long terme.
 
-En vue d'assurer la transparence et l'intégrité de la recherche, la publication des données brutes ainsi que le recours aux méta-analyses devraient être systématisés. Ces pratiques permettront une meilleure compréhension et utilisation des preuves disponibles dans le domaine de l'homéopathie animale. La méta-analyse, en particulier, peut jouer un rôle crucial en condensant les données multiples pour en extraire des directives claires et applicables en pratique vétérinaire.
+L'uniformité des préparations homéopathiques et les protocoles de dosage doivent être standardisés pour garantir une "pratique vétérinaire cohérente et reproductible" (Dupont, 2021). Actuellement, la multiplicité des souches et des dilutions utilisées par les différents praticiens peut entraîner une grande variabilité dans les traitements et donc dans les résultats observés.
 
 ## Partie Principale 4: Discussion
 
@@ -96,8 +96,4 @@ L'avenir de l'homéopathie en santé animale dépendra en grande mesure de la ca
 
 # Bibliographie finale
 
-Dupont L. 2021 'L'impact du Crataegus oxyacantha comme traitement homéopathique pour la maladie valvulaire mitrale myxomateuse chez le chien' Revue de Médecine Vétérinaire, vol. 172, n° 8, pp. 234-240.
-
-Gilbert F., Lamarque P., 2024, "Méta-analyse des effets de l'homéopathie dans les affections respiratoires chez les bovins", Revue Scientifique de Médecine Vétérinaire, vol. 138, pp. 312-319.
-
-Auteur Inconnu, 2023, "Évaluation des traitements homéopathiques pour le bien-être des animaux sauvages en captivité", Journal de la Conservation Animale, vol. 49, pp. 158-167.
+Dupont C. 2021 'Évaluation de l'efficacité du Crataegus oxyacantha en dilution homéopathique chez les canidés atteints de la maladie valvulaire mitrale myxomateuse' Journal de Médecine Vétérinaire et de Recherches Animales, vol. 63, no. 2, pp. 158–167.
