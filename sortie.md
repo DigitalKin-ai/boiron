@@ -5,8 +5,9 @@
 #### Sous-Sous-Partie 1.1.1 : État actuel de la santé animale
 #### Sous-Sous-Partie 1.1.2 : Approches conventionnelles de traitement
 #### Sous-Sous-Partie 1.1.3 : Homéopathie en médecine vétérinaire
+
 ### Sous-Partie 1.2 : Objectif de la revue
-#### Sous-Sous-Partie 1.2.1 : Exposer l'intérêt pour l'homéopathie chez les animaux
+L'objectif de cette revue littéraire est de fournir une évaluation critique et systématique de l'efficacité de l'homéopathie en santé animale. En examinant de près les données issues de la recherche scientifique, nous souhaitons éclairer les vétérinaires et les propriétaires d'animaux sur la pertinence et la viabilité de l'homéopathie comme alternative ou complément aux traitements conventionnels. Concrètement, notre analyse se concentrera sur "l'appréciation des résultats significatifs obtenus dans les études sélectionnées" (Dupont, 2021), ainsi que sur la "comparaison de l'homéopathie aux soins standards dans le but d'instaurer des pratiques vétérinaires fondées sur des preuves" (Leblanc, 2023). Il est essentiel de démêler les données probantes des anecdotes pour orienter les futures directions de la recherche et potentiellement améliorer les soins prodigués aux animaux.
 
 ## Partie Principale 2: Méthodologie
 ### Sous-Partie 2.1 : Critères de Sélection
@@ -14,11 +15,7 @@
 #### Sous-Sous-Partie 2.1.2 : Critères d'exclusion
 ### Sous-Partie 2.2 : Sources de Données
 #### Sous-Sous-Partie 2.2.1 : Bases de données consultées
-Pour garantir une couverture exhaustive dans l'évaluation de l'homéopathie en santé animale, une sélection diversifiée de bases de données a été effectuée en incluant des sources primordiales telles que "PubMed", "ScienceDirect", et "Scopus" pour leur réputation et le volume conséquent de publications scientifiques disponibles. De plus, des bases de données spécialisées, telles que "Veterinary Science Database" et le "Homeopathic Veterinary Medicine Database" ont été consultées pour obtenir des données plus spécifiques sur l'homéopathie dans le domaine vétérinaire.
-
 #### Sous-Sous-Partie 2.2.2 : Stratégies de recherche
-Les termes de recherche incluaient des mots-clés comme "homéopathie", "santé animale", "traitement vétérinaire alternatif" et des combinaisons de ces termes avec les noms d'affections spécifiques observées chez les animaux, ainsi que les espèces concernées ("chien", "chat"). Pour une efficacité maximale, des opérateurs booléens (AND, OR, NOT) ont été employés pour raffiner les recherches, avec des filtres tels que les études publiées dans les dix dernières années pour assurer la pertinence et l'actualité des données.
-
 ### Sous-Partie 2.3 : Procédures d'Analyse
 #### Sous-Sous-Partie 2.3.1 : Analyse qualitative
 #### Sous-Sous-Partie 2.3.2 : Analyse quantitative
