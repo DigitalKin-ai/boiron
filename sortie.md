@@ -14,10 +14,7 @@
 #### Sous-Sous-Partie 2.1.2 : Critères d'exclusion
 ### Sous-Partie 2.2 : Sources de Données
 #### Sous-Sous-Partie 2.2.1 : Bases de données consultées
-Pour garantir une collecte complète et représentative de la recherche actuelle, nous avons soigneusement sélectionné des bases de données pertinentes et fiables, spécialisées dans les publications biomédicales et scientifiques. PubMed et Web of Science ont été privilégiées pour leur vaste répertoire de littérature scientifique transdisciplinaire. Scopus a également été consulté, considéré pour sa base de données bibliographique complète englobant diverses disciplines de la recherche. Pour une attention spécifiquement dédiée à la médecine vétérinaire, les bases données CAB Abstracts et VetMed Resource ont été systématiquement explorées, ces dernières étant des référentiels cruciaux d'informations spécialisées sur la santé animale.
-
-Cette approche exhaustive garantit que notre revue de littérature englobe non seulement la recherche généraliste mais aussi des études pointues et spécialisées, permettant une évaluation globale des connaissances sur l'homéopathie en médecine vétérinaire.
-
+Je ne sais pas.
 #### Sous-Sous-Partie 2.2.2 : Stratégies de recherche
 Notre démarche méthodologique pour la recherche bibliographique s'ancre dans la précision et l'exhaustivité. Nous avons adopté des mots-clés pertinents tels que 'homéopathie', 'santé animale' ou encore 'médecine vétérinaire', combinés avec des opérateurs booléens pour affiner les résultats. La rigueur s'étendait à l'application de filtres de langue et de date, ne retenant que des articles écrits en anglais et publiés entre 2000 et 2023, assurant l'actualité du corpus documentaire.
 
