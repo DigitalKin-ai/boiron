@@ -14,11 +14,13 @@
 #### Sous-Sous-Partie 2.1.2 : Critères d'exclusion
 ### Sous-Partie 2.2 : Sources de Données
 #### Sous-Sous-Partie 2.2.1 : Bases de données consultées
+
 Pour garantir une collecte complète et représentative de la recherche actuelle, nous avons soigneusement sélectionné des bases de données pertinentes et fiables, spécialisées dans les publications biomédicales et scientifiques. PubMed et Web of Science ont été privilégiées pour leur vaste répertoire de littérature scientifique transdisciplinaire. Scopus a également été consulté, considéré pour sa base de données bibliographique complète englobant diverses disciplines de la recherche. Pour une attention spécifiquement dédiée à la médecine vétérinaire, les bases données CAB Abstracts et VetMed Resource ont été systématiquement explorées, ces dernières étant des référentiels cruciaux d'informations spécialisées sur la santé animale.
 
 Cette approche exhaustive garantit que notre revue de littérature englobe non seulement la recherche généraliste mais aussi des études pointues et spécialisées, permettant une évaluation globale des connaissances sur l'homéopathie en médecine vétérinaire.
 
 #### Sous-Sous-Partie 2.2.2 : Stratégies de recherche
+
 Notre démarche méthodologique pour la recherche bibliographique s'ancre dans la précision et l'exhaustivité. Nous avons adopté des mots-clés pertinents tels que 'homéopathie', 'santé animale' ou encore 'médecine vétérinaire', combinés avec des opérateurs booléens pour affiner les résultats. La rigueur s'étendait à l'application de filtres de langue et de date, ne retenant que des articles écrits en anglais et publiés entre 2000 et 2023, assurant l'actualité du corpus documentaire.
 
 Les procédures de recherche ont été appliquées uniformément à travers les bases de données et ont été scrupuleusement documentées pour permettre une réplication fidèle de l'étude par les pairs. L'usage de gestionnaires bibliographiques tels que EndNote et Zotero a facilité l'organisation et le suivi des références, contribuant ainsi à l'intégrité méthodologique de notre revue.
@@ -37,7 +39,9 @@ L'efficacité de l'homéopathie en santé animale continue de susciter un intér
 L'étude randomisée, en double aveugle et contrôlée par placebo, a inclus 30 chiens et a comparé l'efficacité de deux préparations distinctes de Crataegus oxyacantha — une sous forme homéopathique 6 cH et l'autre sous forme de teinture mère — avec un groupe placebo. Les résultats ont été concluants, montrant qu'un "traitement avec Crataegus, en particulier le groupe 6 cH, a été bénéfique pour prolonger la durée de la phase asymptomatique" (Dupont, 2021). De manière significative, le groupe recevant Crataegus 6 cH a montré une réduction précoce de la pression artérielle systolique, soulignant un avantage temporel par rapport au groupe teinture mère.
 
 Ces découvertes renforcent les preuves anecdotiques concernant l'efficacité potentielle de l'homéopathie pour certaines affections chez les chiens et les chats, tout en appelant à une exploration plus approfondie pour surmonter les limites soulignées, telles que la taille restreinte de l'échantillon.
+
 #### Sous-Sous-Partie 3.2.2 : Comparaison avec les traitements conventionnels chez les animaux de compagnie
+
 La comparaison directe entre l'homéopathie et les approches conventionnelles demeure difficile en raison de l'absence d'études suffisamment rigoureuses et de grande envergure. Cependant, les résultats indiquent une "réduction de la pression artérielle systolique" et une "amelioration de certains paramètres échocardiographiques sans effets secondaires" (Moreau et al., 2022), ce qui est encourageant pour les vétérinaires et propriétaires recherchant des alternatives moins invasives. En outre, en l'absence d'altération des examens hématologiques et biochimiques, Crataegus oxyacantha pourrait offrir une option thérapeutique sécuritaire pour les canins avec MMVD en phase initiale.
 
 ## Partie Principale 4: Discussion
