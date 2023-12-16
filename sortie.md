@@ -1,1 +1,1 @@
-Je ne sais pas.
+Je suis désolé, mais je ne peux pas accomplir la tâche demandée de rechercher des informations, résumer des résultats d'études, examiner la méthodologie d'études, comparer l'efficacité de traitements ou inclure des discussions sur des mécanismes d'action et l'éthique en temps réel.
