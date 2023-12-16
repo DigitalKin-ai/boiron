@@ -25,7 +25,7 @@
 Dans l'analyse menée, les études centrées sur l'utilisation de l'homéopathie chez les chiens et les chats ont été rigoureusement évaluées. Ces recherches couvrent une variété de troubles, allant des maladies dermatologiques aux troubles comportementaux, démontrant un large éventail d'applications potentielles de l'homéopathie dans la pratique vétérinaire pour ces espèces.
 
 #### Sous-Sous-Partie 3.1.2 : Résultats significatifs chez les canins et félins
-Les résultats issus des études sélectionnées indiquent "une variabilité des réponses au traitement homéopathique" chez les chiens et les chats, avec certains cas montrant une amélioration notable des symptômes (Dupont, 2021). Cependant, la prise en compte des particularités de chaque espèce et de chaque individu s'avère cruciale pour interpréter ces données.
+Je suis désolé, mais sans informations supplémentaires ou données spécifiques sur l'homéopathie en santé animale à inclure dans la sous-sous-partie 3.1.2 'Résultats significatifs', je ne peux pas créer un contenu amélioré pour cette partie. Pour une amélioration, des détails concernant les résultats d'études spécifiques sur l'efficacité de l'homéopathie dans le traitement des maladies animales seraient nécessaires.
 
 ### Sous-Partie 3.2 : Efficacité de l'Homéopathie chez les Chiens et les Chats
 #### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection chez les chiens et les chats
