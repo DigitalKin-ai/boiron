@@ -1,4 +1,3 @@
-``
 # Structure de la Revue de Littérature sur l'Efficacité de l'Homéopathie en Santé Animale
 
 ## Partie Principale 1: Introduction
@@ -20,13 +19,13 @@
 #### Sous-Sous-Partie 2.3.1 : Approches d'Analyse Qualitative des Études sur les Bovins
 #### Sous-Sous-Partie 2.3.2 : Méthodes d'Analyse Quantitative Spécifiques aux Données Bovines
 
-## Partie Principale 3: Résultats
-### Sous-Partie 3.1 : Études Sélectionnées
-#### Sous-Sous-Partie 3.1.1 : Description générale des études
-#### Sous-Sous-Partie 3.1.2 : Résultats significatifs
-### Sous-Partie 3.2 : Efficacité de l'Homéopathie
-#### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection
-#### Sous-Sous-Partie 3.2.2 : Comparaison avec les traitements conventionnels
+## Partie Principale 3: Résultats sur l'Efficacité de l'Homéopathie chez les Chiens et les Chats
+### Sous-Partie 3.1 : Études Sélectionnées pour les Canins et Félins
+#### Sous-Sous-Partie 3.1.1 : Description générale des études sur les chiens et chats
+#### Sous-Sous-Partie 3.1.2 : Résultats significatifs chez les canins et félins
+### Sous-Partie 3.2 : Efficacité de l'Homéopathie chez les Chiens et Chats
+#### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection chez les chiens et chats
+#### Sous-Sous-Partie 3.2.2 : Comparaison avec les traitements conventionnels chez les canins et félins
 
 ## Partie Principale 4: Discussion
 ### Sous-Partie 4.1 : Analyse des Résultats
@@ -42,4 +41,3 @@
 ### Sous-Partie 5.2 : Perspectives
 #### Sous-Sous-Partie 5.2.1 : Evolution de l'homéopathie en santé animale
 #### Sous-Sous-Partie 5.2.2 : Appel à une recherche plus approfondie
-``
