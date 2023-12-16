@@ -1,1 +1,2 @@
-Je ne sais pas.
+```
+Études. En effet, ces travaux fournissent un aperçu global et précis, permettant de "discerner les effets thérapeutiques au-delà des variations inter-études" (Moreau et al., 2019). Il est donc impératif d'incorporer les résultats de ces analyses pour évaluer l'efficacité de l'homéopathie dans le traitement de diverses pathologies chez les animaux. Cela pourrait offrir une perspective scientifiquement fondée sur l'utilisation de ces traitements alternatifs en médecine vétérinaire.
