@@ -1,3 +1,4 @@
+```
 # Structure de la Revue de Littérature sur l'Efficacité de l'Homéopathie en Santé Animale
 
 ## Partie Principale 1: Introduction
@@ -23,7 +24,7 @@
 ### Sous-Partie 3.1 : Études Sélectionnées
 #### Sous-Sous-Partie 3.1.1 : Description générale des études
 #### Sous-Sous-Partie 3.1.2 : Résultats significatifs
-### Sous-Partie 3.2 : Efficacité de l'Homéopathie
+### Sous-Partie 3.2 : Méthodologies et implications éthiques de l'homéopathie en santé animale
 #### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection
 #### Sous-Sous-Partie 3.2.2 : Comparaison avec les traitements conventionnels
 
@@ -41,3 +42,4 @@
 ### Sous-Partie 5.2 : Perspectives
 #### Sous-Sous-Partie 5.2.1 : Evolution de l'homéopathie en santé animale
 #### Sous-Sous-Partie 5.2.2 : Appel à une recherche plus approfondie
+```
