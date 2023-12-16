@@ -1,5 +1,5 @@
 ``
-# Structure de la Revue de Littérature sur l'Efficacité de l'Homéopathie en Santé Animale
+# Revue de Littérature sur l'Efficacité de l'Homéopathie en Santé Animale
 
 ## Partie Principale 1: Introduction
 ### Sous-Partie 1.1 : Santé Animale et Homéopathie
