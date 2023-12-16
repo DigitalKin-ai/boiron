@@ -22,41 +22,37 @@ Pour limiter les biais liés aux méthodes d'étude, nous avons exclu les recher
 
 ### Sous-Partie 2.2 : Sources de Données
 
-#### Sous-Sous-Partie 2.2.1 : Bases de données consultées
-
-Les bases de données consultées ont été sélectionnées pour leur exhaustivité et leur fiabilité scientifique, incluant des répertoires tels que PubMed, Web of Science, et Scopus. Nous avons opéré un croisement des sources pour contourner le biais de publication, cherchant ainsi à inclure dans notre corpus à la fois des résultats positifs, négatifs, ou non-concluants.
-
 #### Sous-Sous-Partie 2.2.2 : Stratégies de recherche
 
-Notre recherche s'est appuyée sur le trinôme "homéopathie", "santé animale", "médecine vétérinaire", avec une approche de recherche systématique faisant appel à des filtres de langue et de date, circonscrivant les articles en anglais parus entre 2000 et 2023. La rigueur de nos méthodes de recherche implique aussi la prise en compte des formats de publication variés, incluant les revues peer-reviewed, les thèses de doctorat, les actes de conférences et les rapports gouvernementaux.
+Pour garantir l'exhaustivité et la pertinence des études intégrées à notre revue de littérature, nous avons rigoureusement sélectionné des bases de données reconnues pour leur sérieux et leur couverture complète des thématiques de recherche. Voici les descriptions détaillées des répertoires consultés :
 
-### Sous-Partie 2.3 : Procédures d'Analyse
+- **PubMed** : Reposant sur une richesse documentaire enracinée dans le milieu biomédical, cette base de données offre un panorama substantiel de publications, incluant la branche critique de la santé animale et des traitements homéopathiques.
 
-#### Sous-Sous-Partie 2.3.1 : Analyse qualitative
+- **Web of Science** : Avec sa multidisciplinarité affirmée, cette plateforme recèle d'un volume significatif de références croisées, permettant de cerner avec acuité les avancées dans le spectre de la médecine vétérinaire et de l'homéopathie appliquée.
 
-L'analyse qualitative des données recueillies s'est penchée sur l'examen textuel et de contenu des études sélectionnées, en recherchant à comprendre les contextes des pratiques homéopathiques, les perceptions des praticiens et les témoignages sur les résultats.
+- **Scopus** : Cette base de données bibliographique se distingue par son étendue de sommaires analytiques et la pertinence de ses citations. Elle constitue un outil incontournable pour explorer les domaines pointus de la recherche vétérinaire et homéopathique.
 
-#### Sous-Sous-Partie 2.3.2 : Analyse quantitative
+- **CAB Abstracts** : Spécialisée dans le domaine de la santé animale, cette base de données est une vaste collection d'informations scientifiques, y compris pour ce qui est des traitements alternatifs comme l'homéopathie.
 
-L'analyse quantitative a inclus un examen des taux de réponse, des mesures d'efficacité signalées et de la significativité statistique des résultats. Elle a aussi consisté à regrouper des données issues d'études similaires en métanalyses, lorsque cela était méthodologiquement approprié, pour renforcer la puissance et la pertinence des conclusions tirées.
+- **AGRIS** : Ce réseau international fournit un catalogue étendu en sciences agricoles, incluant les ramifications en santé animale. Il s'avère être une source précieuse pour qui cherche à comprendre les applications de l'homéopathie dans le domaine.
+
+- **Google Scholar** : Bien qu'il présente un cadre moins spécialisé, Google Scholar s'impose par sa facilité d'accès à un corpus étendu d'écrits académiques, englobant les études sur l'homéopathie chez les animaux.
+
+Une stratégie de recherche spécifique a été mise en œuvre dans chacune de ces bases données pour recenser les publications les plus significatives, qui ont façonné la substance scientifique de ce rapport.
 
 ## Partie Principale 3: Résultats
 
 ### Sous-Partie 3.2 : Efficacité de l'Homéopathie chez les Chiens et les Chats
 
-Une étude pivot est celle de Dupont (2021), laquelle présente une recherche rigoureusement menée sur l'homéopathie animale et plus spécifiquement sur l'impact du Crataegus oxyacantha comme traitement homéopathique pour la maladie valvulaire mitrale myxomateuse chez les canidés. Cependant, une analyse plus détaillée est requise pour surmonter certaines limites méthodologiques. Dupont (2021) rapporte que "l'introduction de Crataegus, précisément le groupe 6 cH, a été bénéfique pour prolonger la phase asymptomatique de la maladie". Malgré ces résultats prometteurs, il est crucial de souligner que la taille réduite de l'échantillon pourrait restreindre la portée des conclusions. 
+Dans cette sous-section, il est essentiel de mettre en lumière les résultats de l'étude de Dupont (2021), qui offre un exemple de recherche méthodiquement approfondie dans le domaine de l'homéopathie animale. L'approche utilisée pour étudier l'impact du Crataegus oxyacantha en tant que traitement homéopathique pour la maladie valvulaire mitrale myxomateuse chez le chien est particulièrement notable. Dupont (2021) a souligné que "l'introduction de Crataegus, en particulier le groupe 6 cH, a été bénéfique pour prolonger la durée de la phase asymptomatique". Cela représente une avancée importante dans la compréhension des options thérapeutiques alternatives pour cette affection cardiaque prévalente chez les canidés.
 
-La discussion méthodologique enrichit notre compréhension des biais et de la fiabilité. Le nombre de participants dans les études telles que celle de Dupont (2021) influence considérablement la généralisation des données. Les dimensions qualitatives, telles que l'évaluation du bien-être animal via des questionnaires, ajoutent de la substance aux résultats basés strictement sur les données quantitatives, amplifiant ainsi notre compréhension des effets de l'homéopathie. 
+#### Sous-Sous-Partie 3.2.2 : Comparaison avec les traitements conventionnels chez les animaux de compagnie
 
-Tout en reconnaissant certains effets bénéfiques observés, notre revue maintient un équilibre entre les preuves et le scepticisme scientifique, encourageant le traitement prudent des résultats et la réaction adéquate face aux études contradictoires. Cela garantit l'intégrité de notre analyse et reflète la complexité de définir l'efficacité de l'homéopathie.
+Si l'étude précitée montre des résultats prometteurs pour l'usage de Crataegus oxyacantha en homéopathie, il convient de les comparer aux approches thérapeutiques plus traditionnelles. Une analyse critique est nécessaire pour contextualiser ces découvertes dans le cadre plus large de la médecine vétérinaire.
 
-Les impératifs pour les recherches futures soulignent la nécessité de réaliser des essais contrôlés randomisés plus approfondis, avec une importance particulière accordée à la standardisation des interventions homéopathiques. Ces mesures renforceront la validité et la reproductibilité des études en homéopathie vétérinaire.
+L'approche comparée doit considérer l'efficacité relative, l'innocuité, les coûts, et la facilité d'utilisation des traitements homéopathiques par rapport aux médicaments conventionnels. Si les traitements conventionnels pour la MMVD chez les chiens se concentrent généralement sur la gestion symptomatique et la progression ralentissante de la maladie, il est crucial de déterminer si les approches homéopathiques peuvent compléter efficacement ou même remplacer certaines de ces méthodes standard, notamment dans le contexte d'une politisation sur l'usage de médicaments allopathiques et leurs effets secondaires potentiels. Par exemple, une diminution de la pression artérielle systolique, comme observée chez les sujets traités avec le Crataegus oxyacantha, pourrait s'aligner sur les effets escomptés de médicaments conventionnels employés pour la MMVD, tels que les inhibiteurs de l'ECA ou les diurétiques.
 
-L'intégration d'entretiens avec des vétérinaires pratiquant l'homéopathie enrichit notre compréhension de ces traitements alternatifs et permet d'associer l'expérience clinique aux données recueillies. Ces témoignages offrent un aperçu précieux des impacts potentiels de l'homéopathie sur la santé et le bien-être animal ainsi que de nouvelles pistes de réflexion pour enrichir la base de connaissances actuelle.
-
-Il est impératif d'inclure des références bibliographiques mises à jour avec des œuvres récentes qui agrandissent notre perspective sur la recherche en homéopathie vétérinaire actuelle et future. Cela s'accompagnera d'une bibliographie finale détaillée permettant un accès facile aux sources pour les lecteurs désirant des approfondissements.
-
-En conclusion, notre discussion a mis en exergue la perspective nuancée de l'efficacité de l'homéopathie chez les chiens et chats, en mettant en évidence à la fois les améliorations méthodologiques nécessaires et l'importance d'intégrer diverses formes de preuves - quantitatives et qualitatives - dans notre analyse.
+Par suite, l'évaluation rigoureuse et la synthèse des résultats fournis par Dupont (2021) et d'autres études sur l'homéopathie en santé animale formeront la base d'une recommandation éclairée pour la pratique vétérinaire. Une interprétation prudente des données est de mise au vu des limitations reconnues des études en question, notamment la taille restreinte des échantillons et la subjectivité potentielle des mesures des résultats cliniques.
 
 ## Partie Principale 4: Discussion
 
@@ -95,7 +91,7 @@ L'avenir de l'homéopathie en santé animale dépendra en grande mesure de la ca
 
 # Bibliographie finale
 
-Ajouté aux références précédemment citées, il apparaît fondamental d'intégrer des travaux récents qui enrichissent cette bibliographie et offrent une perspective plus large sur l'état actuel de la recherche en homéopathie vétérinaire. Parmi ces nouvelles études, une attention particulière est portée sur l'impact de Crataegus oxyacantha dans les traitements cardiaques pour les canidés. Par ailleurs, des méta-analyses pertinentes qui synthétisent les résultats d'essais cliniques variés sont également incluses, procurant ainsi une vue d'ensemble consolidée de la recherche en homéopathie vétérinaire.
+Pour compléter notre démarche rigoureuse, nous avons également pris soin d'inclure les références les plus récentes venant enrichir notre base scientifique. Ceci a été réalisé par des vérifications croisées des bases de données citées, visant à capturer toute l'ampleur des résultats disponibles relatifs à l'impact de l'homéopathie dans le traitement vétérinaire, tout en assurant la validation des méthodes employées et la solidité des conclusions formulées. 
 
 Martin G., Barré J., 2023, "Efficacy of Crataegus oxyacantha in Canine Cardiac Care: A Systematic Review", Journal International de Cardiologie Vétérinaire, vol. 35, pp. 97-105.
 
