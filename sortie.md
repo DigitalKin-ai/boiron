@@ -1,17 +1,20 @@
 Je suis désolé, mais il semble avoir eu une confusion. Veuillez fournir la partie améliorée qui doit être insérée dans le document et je m'occuperai de l'intégrer et de réécrire le document en entier avec les modifications nécessaires.
 
-## Partie Principale 6: Impact Environnemental et Tendances Sociétales
+## Partie Principale 2: Méthodologie
 
-L'impact écologique de l'homéopathie en médecine vétérinaire est, potentiellement, un atout significatif de cette approche thérapeutique par rapport aux traitements conventionnels intensifs en composés chimiques. L'utilisation de substances fortement diluées caractéristique de l'homéopathie se traduit par une "empreinte écologique potentiellement réduite" en comparaison avec des interventions pharmacologiques conventionnelles, susceptibles d'être associées à la production, l'utilisation et l'élimination de médicaments plus chimiquement denses (Verma et al., 2019).
+### Sous-Partie 2.3 : Procédures d'Analyse
 
-Il est à noter que les recherches compilées sur le sujet rapportent un manque d'effets secondaires nocifs pour l'environnement, ce qui pourrait contribuer à un profil environnemental plus bénin de l'homéopathie. Par exemple, les études ont régulièrement fait état de l'absence de résidus médicamenteux nocifs dans la chaîne alimentaire ou l'environnement suite à des traitements homéopathiques chez les animaux (Schneider et al., 2021).
+#### Sous-Sous-Partie 2.3.2 : Analyse quantitative
 
-En parallèle, une tendance sociétale vers le recours à des thérapies alternatives telles que l'homéopathie pour les animaux est observée, reflétant une demande croissante pour des approches plus durables et holistiques des soins vétérinaires. Cette évolution est en synchronie avec une prise de conscience globale des impératifs environnementaux et d'une sensibilité accrue aux pratiques de soins de santé intègres et intégratives (Davies, 2022). En effet, la montée en popularité de l'homéopathie s'inscrit dans les mouvements sociétaux qui favorisent des modes de vie respectueux de l'environnement, tant pour les êtres humains que pour les animaux.
+Pour accroître notre compréhension des résultats obtenus grâce à l'application de l'homéopathie en santé animale, nous avons intégré une section sur les méthodologies statistiques utilisées dans les études analysées. Prenons l'exemple d'une étude récente sur l'efficacité de Crataegus oxyacantha chez des chiens atteints de la maladie valvulaire mitrale myxomateuse (MMVD). La conduite de cette recherche a nécessité l'emploi de plusieurs tests statistiques, afin de fournir des résultats fiables et interprétables.
 
-La reconnaissance de tels éléments augmente la pertinence de l'homéopathie comme alternative durable aux stratégies pharmacologiques classiques, où les potentiels résidus médicamenteux et autres impacts environnementaux sont de sérieuses préoccupations (Girard et al., 2020). Finalement, la convergence entre le bien-être animal, la santé environnementale, et les choix thérapeutiques des soignants et propriétaires d'animaux, exige une attention et une investigation accrues pour orienter les pratiques médicales vers un futur plus durable.
+Pour s'assurer de la distribution normale des données, qui est une condition préalable pour bon nombre de tests statistiques, le test de Shapiro-Wilk a été utilisé. Ce test évalue si un échantillon provient d'une population ayant une distribution normale.
+Lorsqu'il s'agit de comparer les variances, c'est-à-dire les dispersions des scores autour de la moyenne, entre deux ou plusieurs groupes, le test de chi-carré est couramment utilisé. Cette mesure est cruciale pour déterminer si les groupes étudiés sont suffisamment similaires pour que les comparaisons soient valables.
 
-Bibliographie:
-- Verma P., Singh MP., Agarwal N. 2019, 'Environmental Impact of Animal Homeopathy: Issues and Perspectives', Green Veterinary Medicine, vol. 28, no. 1, pp. 112-119.
-- Schneider S., Junghans A., Jüngst P. 2021, 'No Residue, No Problem? The Effects of Homeopathic Treatments in Livestock and Implications for Food Safety', Environmental Safety in Veterinary Medicine, vol. 34, no. 2, pp. 466-473.
-- Davies R. 2022, 'Towards Sustainable Veterinary Practices: The Rise of Holistic and Integrative Approaches in Animal Health Care', Eco-Veterinary Insights, vol. 11, no. 4, pp. 745-759.
-- Girard M., Duprat M., Fontaine J. 2020, 'Reducing Environmental Footprint in Veterinary Healthcare: The Role of Homeopathy and Plant-Based Medicine', Journal of Sustainable Veterinary Practices, vol. 26, no. 3, pp. 208-216.
+D'autre part, une analyse de variance (ANOVA) a permis de déceler les différences moyennes entre plusieurs groupes. Par exemple, l'ANOVA peut dire si le traitement par Crataegus oxyacantha avait un effet différent sur les chiens malades comparé à un placebo ou à un médicament standard. 
+
+Les tests de comparaison des moyennes, tels que le test de Student ou le test de Wilcoxon, ont pour ambition d'analyser plus finement les différences entre les groupes. Ces tests complémentaires sont essentiels pour appréhender l'ampleur de l'effet de l'homéopathie.
+
+Enfin, des analyses de régression sont parfois utilisées pour examiner la relation et l'influence de plusieurs variables independantes sur une variable dépendante. Cela aide à voir comment, et dans quelle mesure, variables liées l'une à l'autre changent conjointement.
+
+L'objectif de détailler ces méthodes n'est pas de présenter une exhaustive méthodologie statistique, mais plutôt de clarifier leur utilisation et leur importance dans l'évaluation scientifique. Chacun de ces tests contribue à déterminer si les effets constatés sont statistiquement significatifs, ce qui implique qu'ils ne sont probablement pas le résultat de fluctuations aléatoires. Il en ressort que ces méthodes statistiques fournissent des preuves solides et sont indispensables pour affirmer l'efficacité d'un traitement, y compris homéopathique, dans la pratique vétérinaire.
