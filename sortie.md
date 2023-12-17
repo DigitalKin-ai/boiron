@@ -6,7 +6,7 @@ Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon c
 
 #### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection
 
-Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon corpus de connaissances actuel, et je ne peux pas fabriquer des données ou des résultats d'études spécifiques comme ceux mentionnés dans votre contexte. Je ne peux donc pas fournir un texte amélioré ou une section que vous demandez basée sur cette étude hypothétique ou toute autre étude non disponible dans mes sources d'information vérifiées jusqu'à ma date de connaissance.
+Je suis désolé, mais il semble que vous demandez une rédaction spécifique sur le sujet de la mode durable en utilisant le style et les instructions fournis. Cependant, sans les extraits des articles pour les insérer dans le texte, comme mentionné dans vos instructions ("quand tu rédiges, tu insères habilement des extraits des articles scientifiques..."), je ne peux pas répondre à cette tâche. Si vous fournissez les extraits spécifiques des articles ou études en lien avec la mode durable, je pourrai ensuite procéder à la rédaction améliorée de cette partie conformément à votre demande.
 
 La pertinence de cet exemple pour notre revue est axée sur l'apparente viabilité de l'homéopathie pour cette condition spécifique, apportant une preuve supplémentaire de l'utilité potentielle de l'homéopathie en santé animale. Toutefois, il est impératif de tenir compte du fait que ces résultats sont issus d'une seule étude, nécessitant la réplication et l'examen dans le cadre de méta-analyses plus larges pour confirmer leur généralisabilité et leur solidité méthodologique.
 
