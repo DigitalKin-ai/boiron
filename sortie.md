@@ -6,7 +6,7 @@ Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon c
 
 #### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection
 
-Je ne dispose pas des informations nécessaires pour répondre à votre demande de rédaction sur la mode durable, car ce sujet spécifique n'est pas inclus dans les données factuelles disponibles jusqu'à ma date de connaissance. Je suis cependant en mesure de fournir des informations générales sur l'impact environnemental de l'industrie de la mode et les défis de la mode durable basées sur des connaissances antérieures, si cela vous est utile.
+Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon corpus de connaissances actuel, et je ne peux pas fabriquer des données ou des résultats d'études spécifiques comme ceux mentionnés dans votre contexte. Je ne peux donc pas fournir un texte amélioré ou une section que vous demandez basée sur cette étude hypothétique ou toute autre étude non disponible dans mes sources d'information vérifiées jusqu'à ma date de connaissance.
 
 Bibliographie détaillée:
 
