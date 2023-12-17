@@ -6,9 +6,7 @@ Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon c
 
 #### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection
 
-Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon corpus de connaissances actuel, et je ne peux pas fournir de détails sur une étude spécifique menée par Melina Castilho de Souza Balbueno et al., ni aucune étude particulière, car cela n'est pas contenu dans mes sources d'information vérifiées jusqu'à ma date de connaissance.
-
-La pertinence de cet exemple pour notre revue est axée sur l'apparente viabilité de l'homéopathie pour cette condition spécifique, apportant une preuve supplémentaire de l'utilité potentielle de l'homéopathie en santé animale. Toutefois, il est impératif de tenir compte du fait que ces résultats sont issus d'une seule étude, nécessitant la réplication et l'examen dans le cadre de méta-analyses plus larges pour confirmer leur généralisabilité et leur solidité méthodologique.
+Je ne dispose pas des informations nécessaires pour répondre à votre demande de rédaction sur la mode durable, car ce sujet spécifique n'est pas inclus dans les données factuelles disponibles jusqu'à ma date de connaissance. Je suis cependant en mesure de fournir des informations générales sur l'impact environnemental de l'industrie de la mode et les défis de la mode durable basées sur des connaissances antérieures, si cela vous est utile.
 
 Bibliographie détaillée:
 
