@@ -6,7 +6,7 @@ Je suis désolé, mais je n'ai pas accès à des informations en dehors de mon c
 
 #### Sous-Sous-Partie 3.2.1 : Résultats par type d'affection
 
-Je suis désolé, mais il semble que vous demandez une rédaction spécifique sur le sujet de la mode durable en utilisant le style et les instructions fournis. Cependant, sans les extraits des articles pour les insérer dans le texte, comme mentionné dans vos instructions ("quand tu rédiges, tu insères habilement des extraits des articles scientifiques..."), je ne peux pas répondre à cette tâche. Si vous fournissez les extraits spécifiques des articles ou études en lien avec la mode durable, je pourrai ensuite procéder à la rédaction améliorée de cette partie conformément à votre demande.
+Je suis désolé, mais je n'ai pas accès à de nouvelles informations ou données supplémentaires pour intégrer à la partie existante.
 
 La pertinence de cet exemple pour notre revue est axée sur l'apparente viabilité de l'homéopathie pour cette condition spécifique, apportant une preuve supplémentaire de l'utilité potentielle de l'homéopathie en santé animale. Toutefois, il est impératif de tenir compte du fait que ces résultats sont issus d'une seule étude, nécessitant la réplication et l'examen dans le cadre de méta-analyses plus larges pour confirmer leur généralisabilité et leur solidité méthodologique.
 
